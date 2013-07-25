@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+__author__='amiranda'
+__date__='Thu Jul 25 09:30:57 CEST 2013'
+
 import itertools
 import matplotlib
 import matplotlib.pyplot as plt

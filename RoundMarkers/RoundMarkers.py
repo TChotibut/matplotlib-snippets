@@ -2,6 +2,9 @@
 Provides rounded markers (square, ex, plus, asterisk) to matplotlib
 """
 
+__author__='amiranda'
+__date__='Thu Jul 25 09:30:57 CEST 2013'
+
 import matplotlib.markers
 from matplotlib.path import Path
 
